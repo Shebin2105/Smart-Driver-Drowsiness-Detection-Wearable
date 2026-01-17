@@ -1,5 +1,3 @@
-# COMPLETE PROJECT EXPLANATION: Smart Driver Drowsiness Detection Wearable
-
 ## PROJECT TITLE
 **"Smart Driver Drowsiness Detection Wearable: A Multi-Sensor Physiological Monitoring System with Real-Time Alert Mechanism"**
 
